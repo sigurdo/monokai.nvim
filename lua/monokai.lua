@@ -27,8 +27,8 @@ M.classic = {
   red = '#e95678',
   diff_add = '#3d5213',
   diff_remove = '#4a0f23',
-  diff_change = '#27406b',
-  diff_text = '#23324d',
+  diff_change = '#23324d',
+  diff_text = '#6d3c0f',
 }
 
 M.pro = {
@@ -905,3 +905,4 @@ M.setup = function(config)
 end
 
 return M
+
